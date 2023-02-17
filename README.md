@@ -10,7 +10,7 @@ Put your Bot Token and guild id in the config file, then start the program
 https://mega.nz/file/xrh3jbpJ#jLo9DJJnQm7xoTtWFgtlfRTE6QA4ybnEbA-1CdSajGQ
 
 # Why TF mega link
-i upload with 80 kb/s and it was the faster that this
+i upload with 80 kb/s and it was the fastes website to upload it.
 
 # Help 
 discord: PythonDev#5063
