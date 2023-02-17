@@ -1,6 +1,9 @@
 # NEEDLESS
 NEEDLESS Nuker
 
+# Other Download Link
+https://mega.nz/file/lrYG2ZoK#mHk5vuLzXxBLYW2OwyWPqPSeIaTbiBhk_WfUVVoGi7Q
+
 # How to use
 Put your Bot Token and guild id in the config file, then start the program
 
